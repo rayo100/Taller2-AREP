@@ -1,0 +1,42 @@
+@options
+@packages
+-classpath
+'C:/Users/cv100/.m2/repository/org/json/json/20220924/json-20220924.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/cv100/OneDrive/Documentos/Noveno Semestre/AREP/AREP-Lab1/AREP-Lab1/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/cv100/OneDrive/Documentos/Noveno Semestre/AREP/AREP-Lab1/AREP-Lab1/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'AREP-Lab1 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/cv100/OneDrive/Documentos/Noveno Semestre/AREP/AREP-Lab1/AREP-Lab1/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'AREP-Lab1 1.0-SNAPSHOT API'
+edu.escuelaing.app.arep.lab1
+C:\Users\cv100\.m2\repository\org\json\json\20220924\json-20220924.jar = 1692647569254
+C:\Users\cv100\OneDrive\Documentos\Noveno Semestre\AREP\AREP-Lab1\AREP-Lab1\src\main\java = 1692472555797
+C:\Users\cv100\OneDrive\Documentos\Noveno Semestre\AREP\AREP-Lab1\AREP-Lab1\target\site\apidocs\allclasses-frame.html = 1692661321418
+C:\Users\cv100\OneDrive\Documentos\Noveno Semestre\AREP\AREP-Lab1\AREP-Lab1\target\site\apidocs\allclasses-noframe.html = 1692661321419
+C:\Users\cv100\OneDrive\Documentos\Noveno Semestre\AREP\AREP-Lab1\AREP-Lab1\target\site\apidocs\constant-values.html = 1692661321371
+C:\Users\cv100\OneDrive\Documentos\Noveno Semestre\AREP\AREP-Lab1\AREP-Lab1\target\site\apidocs\deprecated-list.html = 1692661321416
+C:\Users\cv100\OneDrive\Documentos\Noveno Semestre\AREP\AREP-Lab1\AREP-Lab1\target\site\apidocs\help-doc.html = 1692661321426
+C:\Users\cv100\OneDrive\Documentos\Noveno Semestre\AREP\AREP-Lab1\AREP-Lab1\target\site\apidocs\index-all.html = 1692661321411
+C:\Users\cv100\OneDrive\Documentos\Noveno Semestre\AREP\AREP-Lab1\AREP-Lab1\target\site\apidocs\index.html = 1692661321421
+C:\Users\cv100\OneDrive\Documentos\Noveno Semestre\AREP\AREP-Lab1\AREP-Lab1\target\site\apidocs\overview-tree.html = 1692661321397
+C:\Users\cv100\OneDrive\Documentos\Noveno Semestre\AREP\AREP-Lab1\AREP-Lab1\target\site\apidocs\package-list = 1692661321338
+C:\Users\cv100\OneDrive\Documentos\Noveno Semestre\AREP\AREP-Lab1\AREP-Lab1\target\site\apidocs\script.js = 1692661321430
+C:\Users\cv100\OneDrive\Documentos\Noveno Semestre\AREP\AREP-Lab1\AREP-Lab1\target\site\apidocs\stylesheet.css = 1692661321428

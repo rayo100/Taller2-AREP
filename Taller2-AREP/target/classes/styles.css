@@ -1,0 +1,47 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 28/08/2023, 10:51:57 PM
+    Author     : cv100
+*/
+body {
+    background-color: blue;
+    left: 200px;
+}
+
+h1 {
+    margin-left:200px;
+}
+
+h2 {
+    margin-left:200px;
+}
+
+ul {
+    margin-left:200px;
+}
+
+button{
+    height: 50px;
+    background-color: red;
+    color: black;
+    border-radius: 20px;
+    margin-left: 200px;
+}
+
+button:hover {
+    height: 60px;
+    background-color: green;
+}
+
+h3 {
+    margin-left:200px;
+}
+
+
+img {
+    height: 200px;
+    margin-left:200px;
+}

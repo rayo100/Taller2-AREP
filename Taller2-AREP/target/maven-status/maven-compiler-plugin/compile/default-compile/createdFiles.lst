@@ -1,0 +1,11 @@
+edu\escuelaing\app\taller2\arep\services\RestJsService.class
+edu\escuelaing\app\taller2\arep\Seeker.class
+edu\escuelaing\app\taller2\arep\services\RestJpgService.class
+edu\escuelaing\app\taller2\arep\HttpServer.class
+edu\escuelaing\app\taller2\arep\services\RestNotFoundService.class
+edu\escuelaing\app\taller2\arep\services\RestHtmlService.class
+edu\escuelaing\app\taller2\arep\HttpConnection.class
+edu\escuelaing\app\taller2\arep\services\RestCssService.class
+edu\escuelaing\app\taller2\arep\services\RestPageService.class
+edu\escuelaing\app\taller2\arep\services\RestService.class
+edu\escuelaing\app\taller2\arep\webapps\App.class
